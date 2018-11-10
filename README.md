@@ -14,5 +14,5 @@ This is the github repository of our Kubernetes presentation.
 
 Please go to following link for video presentation of same:
 
-https://www.youtube.com/
+https://youtu.be/Egtk9dYZfAM
 
